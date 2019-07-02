@@ -1,0 +1,26 @@
+/* General style */
+body {
+    margin: 1;
+}
+
+#caja1 * {
+    padding: 30px;
+    font-size: 20px;
+    border: 10px solid rgba(0, 233, 50, 0.603);
+}
+
+/* Specific boxes */
+
+#caja1 header {
+    background-color: darkblue;
+    color: green;
+}
+#caja1 main {
+    background-color: royalblue;
+    color: white;
+}
+#caja1 footer {
+    background-color: chocolate;
+    color: white;
+
+}
