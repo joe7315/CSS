@@ -1,0 +1,71 @@
+/* General style */
+body {
+    margin: 0;
+}
+
+#caja1 {
+    width: 50em;
+    height: 50em;
+    padding: 1em;
+    background-position: center;
+    }
+#caja2 {
+    width: 40em;
+    height: 40em;
+    padding: 1em;
+    margin: 4em;
+    background-position: center;
+}
+#caja3 {
+    width: 30em;
+    height: 30em;
+    padding: 1em;
+    margin: 4em;
+    background-position: center;
+}
+#caja1_1 {
+    width: 50em;
+    height: 50em;
+    padding: 1em;
+    margin: 4em;
+    background-position: center;
+}
+#caja2_1 {
+    width: 40em;
+    height: 40em;
+    padding: 1em;
+    margin: 4em;
+    background-position: center;
+}
+#caja3_1 {
+    width: 30em;
+    height: 30em;
+    padding: 1em;
+    margin: 4em;
+    background-position: center;
+}
+
+
+
+
+/* Specific boxes */
+
+#caja1 {
+background-color: darkblue;
+}
+#caja2 {
+background-color: royalblue;
+}
+#caja3 {
+background-color: chocolate;
+color: darkblue;
+}
+#caja1_1 {
+    background-color: darkred;
+}
+#caja2_1 {
+    background-color: blueviolet;
+}
+#caja3_1 {
+    background-color: darkgreen;
+}
